@@ -1,2 +1,2 @@
-# teste-git
-Aula Impulso Tec: teste de uso do git
+# impulsotec-aula-git
+Aula ImpulsoTec: teste de uso do git
